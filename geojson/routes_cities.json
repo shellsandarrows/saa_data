@@ -1,0 +1,1106 @@
+{
+   "Camino Del Norte": [
+      {
+         "city_name": "Ir\u00fan",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "San Sebasti\u00e1n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Getaria",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Deba",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Markina-Xemein",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Guernica",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Lezama",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Bilbao",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Portugalete",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castro Urdiales",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Laredo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Escalante",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santander",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Arce",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santillana del Mar",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Comillas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Unquera",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Llanes",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ribadesella",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Colunga",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villaviciosa",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Arz\u00faa",
+         "is_end_stage": true
+      }
+   ],
+   "Camino Frances": [
+      {
+         "city_name": "Saint-Jean-Pied-de-Port",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Huntto",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Orisson",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Roncesvalles",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Burguete",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Aurizberri/Espinal",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Bizkarreta",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Lintzoain",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Zubiri",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Ilarratz",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Urd\u00e1niz",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Larrasoa\u00f1a",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Akerreta",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Zuriain",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Irotz",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Zabaldika",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Trinidad de Arre",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villava",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Burlada",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Pamplona",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Cizur Menor",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Zariquiegui",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Uterga",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Muruz\u00e1bal",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Obanos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Puente la Reina",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Maneru",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Cirauqui",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Lorca",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villatuerta",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Estella",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Ayegui",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Irache",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Azqueta",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villamayor de Monjard\u00edn",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Los Arcos",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Sansol",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Torres del Rio",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Viana",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Logro\u00f1o",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Navarrete",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ventosa",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "N\u00e1jera",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Azofra",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Cirue\u00f1a",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santo Domingo de la Calzada",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Gra\u00f1\u00f3n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Redecilla del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castildelgado",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Viloria de Rioja",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villamayor del Rio",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Belorado",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Tosantos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villambistia",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Espinosa del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villafranca Montes de Oca",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Juan de Ortega",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Ag\u00e9s",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Atapuerca",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Carde\u00f1uela R\u00edopico",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Orbaneja Riopico",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villafr\u00eda",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Burgos",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Tardajos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Rab\u00e9 de las Calzadas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Hornillos del Camino",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "San Bol",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castellanos de Castro",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Hontanas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Convento de San Ant\u00f3n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castrojeriz",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Itero del Castillo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Itero de la Vega",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Boadilla del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Fr\u00f3mista",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Poblaci\u00f3n de Campos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Revenga de Campos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villarmentero de Campos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villacázar de Sirga",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Carri\u00f3n de los Condes",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Calzadilla de la Cueza",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ledigos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Terradillos de los Templarios",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Moratinos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Nicol\u00e1s del Real Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Sahag\u00fan",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Calzada del Coto",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Bercianos del Real Camino",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Calzadilla de Los Hermanillos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "El Burgo Ranero",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Reliegos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Mansilla de las Mulas",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Villamoros de Mansilla",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Puente Villarente",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Arcahueja",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Le\u00f3n",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Trobajo del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "La Virgen del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Valverde de la Virgen",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Miguel del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villadangos del P\u00e1ramo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Martin del Camino",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Puente de \u00d3rbigo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Hospital de Orbigo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villares de Orbigo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santibáñez de Valdeiglesias",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Justo de la Vega",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Astorga",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Valdeviejas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Murias de Rechivaldo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santa Catalina de Somoza",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "El Ganso",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Rabanal del Camino",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Foncebad\u00f3n",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Manjar\u00edn",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "El Acebo de San Miguel",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Riego de Ambrós",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Molinaseca",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Campo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ponferrada",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Columbrianos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Fuentesnuevas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Camponaraya",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Cacabelos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Pieros",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Valtuille de Arriba",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villafranca del Bierzo",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Pereje",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Trabadelo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "La Portela de Valcarce",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ambasmestas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Vega de Valcarce",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ruitel\u00e1n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Las Herrer\u00edas",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "La Faba",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "La Laguna",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "O Cebreiro",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Li\u00f1ares",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Hospital da Condesa",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Alto de Polo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Fonfría",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "O Biduedo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Fillobal",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Pasantes",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Tríacastela",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "San Cristovo do Real (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Lusio (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Renche (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Freituxe (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "San Martino do Real (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Samos",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Pascais (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Gorolfe (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Sivil (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Perros (over Samos)",
+         "is_official_stage": false
+      },
+      {
+         "city_name": "Aguiada",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Sarria",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Vilei (Barbadelo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "O Mosteiro (Barbadelo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Rente (Barbadelo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Serra (Barbadelo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Molino de Marz\u00e1n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Pena (Belante)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Peruscallo (Belante)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Cortinas (Biville)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Brea (A Pinza)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Morgade (A Pinza)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ferreiros",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Mirallos (Ferreiros)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Pena (Ferreiros)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "As Rozas (Francos)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Moimentos (A Laxe)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Marcadoiro (A Laxe)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Parrocha (As Cortes)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Vilachá",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Portomar\u00edn",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Toxibo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Gonzar",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castromaior",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Hospital da Cruz",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ventas de Nar\u00f3n",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ligonde",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Airexe (Ligonde)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Portos (Lestedo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Lestedo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Os Valos (Lestedo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Brea (Lestedo)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Palas de Rei",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "San Xiao do Cami\u00f1o",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Gra\u00f1a",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ponte Campana",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Casanova",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "O Coto",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Descabo (O Leboreiro)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Furelos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Melide",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Boente",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Castaneda (A Fraga Alta)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Ribadiso",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Arz\u00faa",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Pregontono",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Calzada",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Calle de Ferreiros",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Salceda",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A Brea (O Pino)",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santa Irene",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "A R\u00faa",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "O Pedrouzo",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Amenal",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Paio",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Lavacolla",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Villamaior",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "San Marcos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Monte do Gozo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santiago de Compostela",
+         "is_end_stage": true
+      }
+   ],
+   "Camino Portugues - Central": [
+      {
+         "city_name": "Lisboa",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Parque Das Nações / Oriente",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Sacavem",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Santa Iria de Azoia",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Alpriate",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Alverca do Ribatejo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Alhandra",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Vila Franca de Xira",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Castanheira do Ribatejo",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Vila Nova da Rainha",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Azambuja",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Santar\u00e9m",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Golegã",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Tomar",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Alvaiázere",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Ansião",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Condeixa-a-Nova",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Coimbra",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Mealhada",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "\u00c1gueda",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Albergaria-a-Velha",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Albergaria-a-Nova",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "S\u00e3o Jo\u00e3o da Madeira",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Porto",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Fajozes",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Arcos",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Barcelos",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Ponte de Lima",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Tui",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "O Porri\u00f1o",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Arcade",
+         "is_official_stage": null
+      },
+      {
+         "city_name": "Pontevedra",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Caldas de Reis",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Padr\u00f3n",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Santiago de Compostela",
+         "is_end_stage": true
+      }
+   ],
+   "Camino de Invierno": [
+      {
+         "city_name": "Ponferrada",
+         "is_official_stage": true
+      },
+      {
+         "city_name": "Santiago de Compostela",
+         "is_end_stage": true
+      }
+   ]
+}

@@ -1,0 +1,4915 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.23579,
+               43.163417
+            ]
+         },
+         "properties": {
+            "city_name": "Saint-Jean-Pied-de-Port",
+            "short_city_name": "saint_jean_pied_de_port",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_gear": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -1466256
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.244959,
+               43.124274
+            ]
+         },
+         "properties": {
+            "city_name": "Huntto",
+            "short_city_name": "huntto",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.239412,
+               43.107899
+            ]
+         },
+         "properties": {
+            "city_name": "Orisson",
+            "short_city_name": "orisson",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.319752833597505,
+          43.00865770064328
+            ]
+         },
+         "properties": {
+            "city_name": "Roncesvalles",
+            "short_city_name": "roncesvalles",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -399657
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.335412,
+               42.989706
+            ]
+         },
+         "properties": {
+            "city_name": "Burguete",
+            "short_city_name": "burguete",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -374419
+         }
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "city_name": "Aurizberri/Espinal",
+            "short_city_name": "aurizberri_espinal",
+            "has_lodging": true,
+            "booking_city_id": -381871
+         },
+         "geometry": {
+            "coordinates": [
+               -1.3699528219131025,
+               42.97924250176786
+            ],
+            "type": "Point"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.417061,
+               42.96829
+            ]
+         },
+         "properties": {
+            "city_name": "Bizkarreta",
+            "short_city_name": "bizkarreta",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.437849,
+               42.962345
+            ]
+         },
+         "properties": {
+            "city_name": "Lintzoain",
+            "short_city_name": "lintzoain",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.503371,
+               42.929862
+            ]
+         },
+         "properties": {
+            "city_name": "Zubiri",
+            "short_city_name": "zubiri",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -409283
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.517139,
+               42.911029
+            ]
+         },
+         "properties": {
+            "city_name": "Ilarratz",
+            "short_city_name": "ilarratz",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.580120244625789,
+               42.855802706988015
+            ]
+         },
+         "properties": {
+            "city_name": "Zabaldika",
+            "short_city_name": "zabaldika",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.524395,
+               42.912145
+            ]
+         },
+         "properties": {
+            "city_name": "Urd\u00e1niz",
+            "short_city_name": "urdaniz",
+            "has_lodging": true,
+            "booking_city_id": -405482
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.540438,
+               42.901061
+            ]
+         },
+         "properties": {
+            "city_name": "Larrasoa\u00f1a",
+            "short_city_name": "larrasoana",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "booking_city_id": -388056
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.54338,
+               42.896747
+            ]
+         },
+         "properties": {
+            "city_name": "Akerreta",
+            "short_city_name": "akerreta",
+            "has_lodging": true,
+            "booking_city_id": 900050211
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.566131,
+               42.878595
+            ]
+         },
+         "properties": {
+            "city_name": "Zuriain",
+            "short_city_name": "zuriain",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.571267,
+               42.861435
+            ]
+         },
+         "properties": {
+            "city_name": "Irotz",
+            "short_city_name": "irotz",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.603819,
+               42.836143
+            ]
+         },
+         "properties": {
+            "city_name": "Trinidad de Arre",
+            "short_city_name": "trinidad_de_arre",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.607818,
+               42.83194
+            ]
+         },
+         "properties": {
+            "city_name": "Villava",
+            "short_city_name": "villava",
+            "has_lodging": true,
+            "booking_city_id": -407440
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.617071,
+               42.825201
+            ]
+         },
+         "properties": {
+            "city_name": "Burlada",
+            "short_city_name": "burlada",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -374430
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.644912,
+               42.818294
+            ]
+         },
+         "properties": {
+            "city_name": "Pamplona",
+            "short_city_name": "pamplona",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "has_bus": true,
+            "has_train": true,
+            "has_airport": true,
+            "booking_city_id": -395308
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.675233,
+               42.788297
+            ]
+         },
+         "properties": {
+            "city_name": "Cizur Menor",
+            "short_city_name": "cizur_menor",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_hospital": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.722739,
+               42.748281
+            ]
+         },
+         "properties": {
+            "city_name": "Zariquiegui",
+            "short_city_name": "zariquiegui",
+            "has_lodging": true,
+            "booking_city_id": -409166
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.759495,
+               42.710015
+            ]
+         },
+         "properties": {
+            "city_name": "Uterga",
+            "short_city_name": "uterga",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "booking_city_id": -405592
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.771512,
+               42.689303
+            ]
+         },
+         "properties": {
+            "city_name": "Muruz\u00e1bal",
+            "short_city_name": "muruzabal",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -393504
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.785989,
+               42.679471
+            ]
+         },
+         "properties": {
+            "city_name": "Obanos",
+            "short_city_name": "obanos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -394239
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.810501,
+               42.673698
+            ]
+         },
+         "properties": {
+            "city_name": "Puente la Reina",
+            "short_city_name": "puente_la_reina",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "booking_city_id": -397785
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.861996,
+               42.670022
+            ]
+         },
+         "properties": {
+            "city_name": "Maneru",
+            "short_city_name": "maneru",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.890836,
+               42.675848
+            ]
+         },
+         "properties": {
+            "city_name": "Cirauqui",
+            "short_city_name": "cirauqui",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -378199
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.94455,
+               42.673605
+            ]
+         },
+         "properties": {
+            "city_name": "Lorca",
+            "short_city_name": "lorca",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -389709
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.993376,
+               42.658785
+            ]
+         },
+         "properties": {
+            "city_name": "Villatuerta",
+            "short_city_name": "villatuerta",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "booking_city_id": -408564
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.028189,
+               42.670152
+            ]
+         },
+         "properties": {
+            "city_name": "Estella",
+            "short_city_name": "estella",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -382049
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.038397,
+               42.657857
+            ]
+         },
+         "properties": {
+            "city_name": "Ayegui",
+            "short_city_name": "ayegui",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -372003
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.05672,
+               42.646282
+            ]
+         },
+         "properties": {
+            "city_name": "Irache",
+            "short_city_name": "irache",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.086773,
+               42.635703
+            ]
+         },
+         "properties": {
+            "city_name": "Azqueta",
+            "short_city_name": "azqueta",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.102678,
+               42.629146
+            ]
+         },
+         "properties": {
+            "city_name": "Villamayor de Monjard\u00edn",
+            "short_city_name": "villamayor_de_monjardin",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -407845
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.192663,
+               42.571051
+            ]
+         },
+         "properties": {
+            "city_name": "Los Arcos",
+            "short_city_name": "los_arcos",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "booking_city_id": -389784
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.266752,
+               42.553467
+            ]
+         },
+         "properties": {
+            "city_name": "Sansol",
+            "short_city_name": "sansol",
+            "has_lodging": true,
+            "booking_city_id": -401517
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.271459,
+               42.551588
+            ]
+         },
+         "properties": {
+            "city_name": "Torres del Rio",
+            "short_city_name": "torres_del_rio",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -404813
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.368916,
+               42.515429
+            ]
+         },
+         "properties": {
+            "city_name": "Viana",
+            "short_city_name": "viana",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -407072
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.443593,
+               42.468748
+            ]
+         },
+         "properties": {
+            "city_name": "Logro\u00f1o",
+            "short_city_name": "logrono",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -389593
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.56047,
+               42.429412
+            ]
+         },
+         "properties": {
+            "city_name": "Navarrete",
+            "short_city_name": "navarrete",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -393807
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.625883,
+               42.404702
+            ]
+         },
+         "properties": {
+            "city_name": "Ventosa",
+            "short_city_name": "ventosa",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -406970
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.732709,
+               42.417544
+            ]
+         },
+         "properties": {
+            "city_name": "N\u00e1jera",
+            "short_city_name": "najera",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -393548
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.799627,
+               42.423699
+            ]
+         },
+         "properties": {
+            "city_name": "Azofra",
+            "short_city_name": "azofra",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -372068
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.890026,
+               42.415713
+            ]
+         },
+         "properties": {
+            "city_name": "Cirue\u00f1a",
+            "short_city_name": "ciruena",
+            "has_lodging": true,
+            "has_cafe": true,
+            "booking_city_id": -378222
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.950362,
+               42.440539
+            ]
+         },
+         "properties": {
+            "city_name": "Santo Domingo de la Calzada",
+            "short_city_name": "santo_domingo_de_la_calzada",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "booking_city_id": -402188
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.025694,
+               42.45111
+            ]
+         },
+         "properties": {
+            "city_name": "Gra\u00f1\u00f3n",
+            "short_city_name": "granon",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "booking_city_id": -384462
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.064324,
+               42.438437
+            ]
+         },
+         "properties": {
+            "city_name": "Redecilla del Camino",
+            "short_city_name": "redecilla_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "booking_city_id": -398607
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.08323,
+               42.436848
+            ]
+         },
+         "properties": {
+            "city_name": "Castildelgado",
+            "short_city_name": "castildelgado",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -377022
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.100364,
+               42.426808
+            ]
+         },
+         "properties": {
+            "city_name": "Viloria de Rioja",
+            "short_city_name": "viloria_de_rioja",
+            "has_lodging": true,
+            "booking_city_id": -408736
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.136372,
+               42.42788
+            ]
+         },
+         "properties": {
+            "city_name": "Villamayor del Rio",
+            "short_city_name": "villamayor_del_rio",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.188019,
+               42.419979
+            ]
+         },
+         "properties": {
+            "city_name": "Belorado",
+            "short_city_name": "belorado",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -373101
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.241803,
+               42.412918
+            ]
+         },
+         "properties": {
+            "city_name": "Tosantos",
+            "short_city_name": "tosantos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "booking_city_id": -404894
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.261086,
+               42.404637
+            ]
+         },
+         "properties": {
+            "city_name": "Villambistia",
+            "short_city_name": "villambistia",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.279833,
+               42.405532
+            ]
+         },
+         "properties": {
+            "city_name": "Espinosa del Camino",
+            "short_city_name": "espinosa_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "booking_city_id": -381911
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.30819,
+               42.389722
+            ]
+         },
+         "properties": {
+            "city_name": "Villafranca Montes de Oca",
+            "short_city_name": "villafranca_montes_de_oca",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -407618
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.435218,
+               42.375775
+            ]
+         },
+         "properties": {
+            "city_name": "San Juan de Ortega",
+            "short_city_name": "san_juan_de_ortega",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -400922
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.47916,
+               42.369865
+            ]
+         },
+         "properties": {
+            "city_name": "Ag\u00e9s",
+            "short_city_name": "ages",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -369216
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.507218,
+               42.376062
+            ]
+         },
+         "properties": {
+            "city_name": "Atapuerca",
+            "short_city_name": "atapuerca",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -371879
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.557064,
+               42.360339
+            ]
+         },
+         "properties": {
+            "city_name": "Carde\u00f1uela R\u00edopico",
+            "short_city_name": "cardenuela_riopico",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -376167
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.5600,
+               42.3594
+            ]
+         },
+         "properties": {
+            "city_name": "Orbaneja Riopico",
+            "short_city_name": "orbaneja_riopico",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "booking_city_id": -394614
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.6162,
+               42.3655
+            ]
+         },
+         "properties": {
+            "city_name": "Villafr\u00eda",
+            "short_city_name": "villafria",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -407625
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.704434,
+               42.340114
+            ]
+         },
+         "properties": {
+            "city_name": "Burgos",
+            "short_city_name": "burgos",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -374415
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.81579,
+               42.349294
+            ]
+         },
+         "properties": {
+            "city_name": "Tardajos",
+            "short_city_name": "tardajos",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -403881
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.833299,
+               42.340895
+            ]
+         },
+         "properties": {
+            "city_name": "Rab\u00e9 de las Calzadas",
+            "short_city_name": "rabe_de_las_calzadas",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true,
+            "booking_city_id": -398305
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.924563,
+               42.338524
+            ]
+         },
+         "properties": {
+            "city_name": "Hornillos del Camino",
+            "short_city_name": "hornillos_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -385400
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.989928,
+               42.326013
+            ]
+         },
+         "properties": {
+            "city_name": "San Bol",
+            "short_city_name": "san_bol",
+            "has_lodging": true,
+            "has_hospital": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.0328,
+               42.3279
+            ]
+         },
+         "properties": {
+            "city_name": "Castellanos de Castro",
+            "short_city_name": "castellanos_de_castro",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.043889,
+               42.312767
+            ]
+         },
+         "properties": {
+            "city_name": "Hontanas",
+            "short_city_name": "hontanas",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -385314
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.098849,
+               42.292845
+            ]
+         },
+         "properties": {
+            "city_name": "Convento de San Ant\u00f3n",
+            "short_city_name": "convento_de_san_anton",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.131791,
+               42.292117
+            ]
+         },
+         "properties": {
+            "city_name": "Castrojeriz",
+            "short_city_name": "castrojeriz",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -377245
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.244144,
+               42.289003
+            ]
+         },
+         "properties": {
+            "city_name": "Itero del Castillo",
+            "short_city_name": "itero_del_castillo",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.256141,
+               42.286768
+            ]
+         },
+         "properties": {
+            "city_name": "Itero de la Vega",
+            "short_city_name": "itero_de_la_vega",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_water": true,
+            "booking_city_id": -385992
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.345972,
+               42.260305
+            ]
+         },
+         "properties": {
+            "city_name": "Boadilla del Camino",
+            "short_city_name": "boadilla_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -373724
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.401878,
+               42.266287
+            ]
+         },
+         "properties": {
+            "city_name": "Fr\u00f3mista",
+            "short_city_name": "fromista",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -383043
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.445222,
+               42.269218
+            ]
+         },
+         "properties": {
+            "city_name": "Poblaci\u00f3n de Campos",
+            "short_city_name": "poblacion_de_campos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -396980
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.481336,
+               42.285152
+            ]
+         },
+         "properties": {
+            "city_name": "Revenga de Campos",
+            "short_city_name": "revenga_de_campos",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.499453,
+               42.297822
+            ]
+         },
+         "properties": {
+            "city_name": "Villarmentero de Campos",
+            "short_city_name": "villarmentero_de_campos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_water": true,
+            "booking_city_id": -408408
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.539779,
+               42.317176
+            ]
+         },
+         "properties": {
+            "city_name": "Villacázar de Sirga",
+            "short_city_name": "villacazar_de_sirga",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_water": true,
+            "booking_city_id": -407734
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.600834,
+               42.337276
+            ]
+         },
+         "properties": {
+            "city_name": "Carri\u00f3n de los Condes",
+            "short_city_name": "carrion_de_los_condes",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -376366
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.802249,
+               42.329069
+            ]
+         },
+         "properties": {
+            "city_name": "Calzadilla de la Cueza",
+            "short_city_name": "calzadilla_de_la_cueza",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -375164
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.865196,
+               42.35372
+            ]
+         },
+         "properties": {
+            "city_name": "Ledigos",
+            "short_city_name": "ledigos",
+            "has_lodging": true,
+            "has_hospital": true,
+            "has_water": true,
+            "booking_city_id": -388988
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.889319,
+               42.363164
+            ]
+         },
+         "properties": {
+            "city_name": "Terradillos de los Templarios",
+            "short_city_name": "terradillos_de_los_templarios",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.9279,
+               42.3612
+            ]
+         },
+         "properties": {
+            "city_name": "Moratinos",
+            "short_city_name": "moratinos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -392996
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.952592,
+               42.364085
+            ]
+         },
+         "properties": {
+            "city_name": "San Nicol\u00e1s del Real Camino",
+            "short_city_name": "san_nicolas_del_real_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.023041,
+               42.370439
+            ]
+         },
+         "properties": {
+            "city_name": "Sahag\u00fan",
+            "short_city_name": "sahagun",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "booking_city_id": -400015
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.143367,
+               42.387836
+            ]
+         },
+         "properties": {
+            "city_name": "Bercianos del Real Camino",
+            "short_city_name": "bercianos_del_real_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -373341
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.217694,
+               42.421263
+            ]
+         },
+         "properties": {
+            "city_name": "El Burgo Ranero",
+            "short_city_name": "el_burgo_ranero",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_train": true,
+            "booking_city_id": -380332
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.078616,
+               42.386123
+            ]
+         },
+         "properties": {
+            "city_name": "Calzada del Coto",
+            "short_city_name": "calzada_del_coto",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.155252,
+               42.43331
+            ]
+         },
+         "properties": {
+            "city_name": "Calzadilla de Los Hermanillos",
+            "short_city_name": "calzadilla_de_los_hermanillos",
+            "has_lodging": true,
+            "booking_city_id": -375168
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.353298,
+               42.474372
+            ]
+         },
+         "properties": {
+            "city_name": "Reliegos",
+            "short_city_name": "reliegos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "booking_city_id": -398750
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.415014,
+               42.497731
+            ]
+         },
+         "properties": {
+            "city_name": "Mansilla de las Mulas",
+            "short_city_name": "mansilla_de_las_mulas",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -390974
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.445335,
+               42.534348
+            ]
+         },
+         "properties": {
+            "city_name": "Villamoros de Mansilla",
+            "short_city_name": "villamoros_de_mansilla",
+            "has_market": true,
+            "booking_city_id": -407905
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.454677,
+               42.543996
+            ]
+         },
+         "properties": {
+            "city_name": "Puente Villarente",
+            "short_city_name": "puente_villarente",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -408334
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.495738,
+               42.567053
+            ]
+         },
+         "properties": {
+            "city_name": "Arcahueja",
+            "short_city_name": "arcahueja",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -371099
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.569545,
+               42.596555
+            ]
+         },
+         "properties": {
+            "city_name": "Le\u00f3n",
+            "short_city_name": "leon",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "has_airport": true,
+            "booking_city_id": -389068
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.605668,
+               42.596462
+            ]
+         },
+         "properties": {
+            "city_name": "Trobajo del Camino",
+            "short_city_name": "trobajo_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -405185
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.641198,
+               42.580115
+            ]
+         },
+         "properties": {
+            "city_name": "La Virgen del Camino",
+            "short_city_name": "la_virgen_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -388898
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.68374,
+               42.56864
+            ]
+         },
+         "properties": {
+            "city_name": "Valverde de la Virgen",
+            "short_city_name": "valverde_de_la_virgen",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -406575
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.696545,
+               42.563796
+            ]
+         },
+         "properties": {
+            "city_name": "San Miguel del Camino",
+            "short_city_name": "san_miguel_del_camino",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.76699,
+               42.516794
+            ]
+         },
+         "properties": {
+            "city_name": "Villadangos del P\u00e1ramo",
+            "short_city_name": "villadangos_del_paramo",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -407526
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.808906,
+               42.494998
+            ]
+         },
+         "properties": {
+            "city_name": "San Martin del Camino",
+            "short_city_name": "san_martin_del_camino",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -401126
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.876898,
+               42.463931
+            ]
+         },
+         "properties": {
+            "city_name": "Puente de \u00d3rbigo",
+            "short_city_name": "puente_de_orbigo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.88202,
+               42.463625
+            ]
+         },
+         "properties": {
+            "city_name": "Hospital de Orbigo",
+            "short_city_name": "hospital_de_orbigo",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -385441
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.909724,
+               42.468796
+            ]
+         },
+         "properties": {
+            "city_name": "Villares de Orbigo",
+            "short_city_name": "villares_de_orbigo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -408346
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.930163,
+               42.458855
+            ]
+         },
+         "properties": {
+            "city_name": "Santibáñez de Valdeiglesias",
+            "short_city_name": "santibanez_de_valdeiglesias",
+            "has_lodging": true,
+            "has_cafe": true,
+            "booking_city_id": -402114
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.015741,
+               42.454306
+            ]
+         },
+         "properties": {
+            "city_name": "San Justo de la Vega",
+            "short_city_name": "san_justo_de_la_vega",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -400971
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.05333,
+               42.454674
+            ]
+         },
+         "properties": {
+            "city_name": "Astorga",
+            "short_city_name": "astorga",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -371834
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.07888,
+               42.461978
+            ]
+         },
+         "properties": {
+            "city_name": "Valdeviejas",
+            "short_city_name": "valdeviejas",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.10501,
+               42.460401
+            ]
+         },
+         "properties": {
+            "city_name": "Murias de Rechivaldo",
+            "short_city_name": "murias_de_rechivaldo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -393446
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.158203,
+               42.455121
+            ]
+         },
+         "properties": {
+            "city_name": "Santa Catalina de Somoza",
+            "short_city_name": "santa_catalina_de_somoza",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -401580
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.20659,
+               42.462492
+            ]
+         },
+         "properties": {
+            "city_name": "El Ganso",
+            "short_city_name": "el_ganso",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "booking_city_id": -380688
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.2844,
+               42.482025
+            ]
+         },
+         "properties": {
+            "city_name": "Rabanal del Camino",
+            "short_city_name": "rabanal_del_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -398289
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.341905,
+               42.490941
+            ]
+         },
+         "properties": {
+            "city_name": "Foncebad\u00f3n",
+            "short_city_name": "foncebadon",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -382600
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.386736,
+               42.490258
+            ]
+         },
+         "properties": {
+            "city_name": "Manjar\u00edn",
+            "short_city_name": "manjarin",
+            "has_lodging": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.456772,
+               42.498637
+            ]
+         },
+         "properties": {
+            "city_name": "El Acebo de San Miguel",
+            "short_city_name": "el_acebo_de_san_miguel",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": 900053709
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.479738,
+               42.522204
+            ]
+         },
+         "properties": {
+            "city_name": "Riego de Ambrós",
+            "short_city_name": "riego_de_ambros",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -399131
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.518639,
+               42.537642
+            ]
+         },
+         "properties": {
+            "city_name": "Molinaseca",
+            "short_city_name": "molinaseca",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -392360
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.562572,
+               42.538831
+            ]
+         },
+         "properties": {
+            "city_name": "Campo",
+            "short_city_name": "campo",
+            "has_cafe": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.592788,
+               42.541278
+            ]
+         },
+         "properties": {
+            "city_name": "Ponferrada",
+            "short_city_name": "ponferrada",
+            "has_lodging": true,
+            "has_bus": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_train": true,
+            "has_water": true,
+            "booking_city_id": -397088
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.611099,
+               42.573325
+            ]
+         },
+         "properties": {
+            "city_name": "Columbrianos",
+            "short_city_name": "columbrianos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "booking_city_id": -378534
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.638704,
+               42.576711
+            ]
+         },
+         "properties": {
+            "city_name": "Fuentesnuevas",
+            "short_city_name": "fuentesnuevas",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -383324
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.667208,
+               42.578685
+            ]
+         },
+         "properties": {
+            "city_name": "Camponaraya",
+            "short_city_name": "camponaraya",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "booking_city_id": -375431
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.723057,
+               42.599772
+            ]
+         },
+         "properties": {
+            "city_name": "Cacabelos",
+            "short_city_name": "cacabelos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -374846
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.74943,
+               42.605664
+            ]
+         },
+         "properties": {
+            "city_name": "Pieros",
+            "short_city_name": "pieros",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.7638,
+               42.6154
+            ]
+         },
+         "properties": {
+            "city_name": "Valtuille de Arriba",
+            "short_city_name": "valtuille_de_arriba",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.808766,
+               42.604143
+            ]
+         },
+         "properties": {
+            "city_name": "Villafranca del Bierzo",
+            "short_city_name": "villafranca_del_bierzo",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -407611
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.843297,
+               42.625645
+            ]
+         },
+         "properties": {
+            "city_name": "Pereje",
+            "short_city_name": "pereje",
+            "has_lodging": true,
+            "has_water": true,
+            "booking_city_id": -396327
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.87737,
+               42.648021
+            ]
+         },
+         "properties": {
+            "city_name": "Trabadelo",
+            "short_city_name": "trabadelo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -404946
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.915108,
+               42.659138
+            ]
+         },
+         "properties": {
+            "city_name": "La Portela de Valcarce",
+            "short_city_name": "la_portela_de_valcarce",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -387836
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.928233,
+               42.66585
+            ]
+         },
+         "properties": {
+            "city_name": "Ambasmestas",
+            "short_city_name": "ambasmestas",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -370606
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.942878,
+               42.664192
+            ]
+         },
+         "properties": {
+            "city_name": "Vega de Valcarce",
+            "short_city_name": "vega_de_valcarce",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_post_office": true,
+            "has_water": true,
+            "booking_city_id": -406732
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.966099,
+               42.672586
+            ]
+         },
+         "properties": {
+            "city_name": "Ruitel\u00e1n",
+            "short_city_name": "ruitelan",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -399874
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -6.980168,
+               42.67089
+            ]
+         },
+         "properties": {
+            "city_name": "Las Herrer\u00edas",
+            "short_city_name": "las_herrerias",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": -388387
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.008927,
+               42.684644
+            ]
+         },
+         "properties": {
+            "city_name": "La Faba",
+            "short_city_name": "la_faba",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.022056,
+               42.70127
+            ]
+         },
+         "properties": {
+            "city_name": "La Laguna",
+            "short_city_name": "la_laguna",
+            "has_lodging": true,
+            "booking_city_id": -387304,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.043305,
+               42.707483
+            ]
+         },
+         "properties": {
+            "city_name": "O Cebreiro",
+            "short_city_name": "o_cebreiro",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -377394
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.073789,
+               42.699219
+            ]
+         },
+         "properties": {
+            "city_name": "Li\u00f1ares",
+            "short_city_name": "linares",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "booking_city_id": -389228
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.098554,
+               42.704246
+            ]
+         },
+         "properties": {
+            "city_name": "Hospital da Condesa",
+            "short_city_name": "hospital_da_condesa",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.126135,
+               42.712454
+            ]
+         },
+         "properties": {
+            "city_name": "Alto de Polo",
+            "short_city_name": "alto_de_polo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.156752,
+               42.731094
+            ]
+         },
+         "properties": {
+            "city_name": "Fonfría",
+            "short_city_name": "fonfria",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": 900051984
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.178345,
+               42.744215
+            ]
+         },
+         "properties": {
+            "city_name": "O Biduedo",
+            "short_city_name": "o_biduedo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.204718,
+               42.743997
+            ]
+         },
+         "properties": {
+            "city_name": "Fillobal",
+            "short_city_name": "fillobal",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.219358,
+               42.748728
+            ]
+         },
+         "properties": {
+            "city_name": "Pasantes",
+            "short_city_name": "pasantes",
+            "has_lodging": true,
+            "booking_city_id": -395626
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.235671,
+               42.756172
+            ]
+         },
+         "properties": {
+            "city_name": "Tríacastela",
+            "short_city_name": "triacastela",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -405135
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.272732,
+               42.740453
+            ]
+         },
+         "properties": {
+            "city_name": "San Cristovo do Real (over Samos)",
+            "short_city_name": "san_cristovo_do_real_over_samos",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.27993,
+               42.739457
+            ]
+         },
+         "properties": {
+            "city_name": "Lusio (over Samos)",
+            "short_city_name": "lusio_over_samos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.290825,
+               42.740023
+            ]
+         },
+         "properties": {
+            "city_name": "Renche (over Samos)",
+            "short_city_name": "renche_over_samos",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.307732,
+               42.742133
+            ]
+         },
+         "properties": {
+            "city_name": "Freituxe (over Samos)",
+            "short_city_name": "freituxe_over_samos"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.316364786337175,
+               42.737144485331555
+            ]
+         },
+         "properties": {
+            "city_name": "San Martino do Real (over Samos)",
+            "short_city_name": "san_martino_do_real_over_samos"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.326649,
+               42.730546
+            ]
+         },
+         "properties": {
+            "city_name": "Samos",
+            "short_city_name": "samos",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -400362
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.343565,
+               42.731496
+            ]
+         },
+         "properties": {
+            "city_name": "Pascais (over Samos)",
+            "short_city_name": "pascais_over_samos"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.355301,
+               42.740113
+            ]
+         },
+         "properties": {
+            "city_name": "Gorolfe (over Samos)",
+            "short_city_name": "gorolfe_over_samos",
+            "booking_city_id": 900053346
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.350213,
+               42.762998
+            ]
+         },
+         "properties": {
+            "city_name": "Sivil (over Samos)",
+            "short_city_name": "sivil_over_samos",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.3565035693770255,
+               42.77041686844714
+            ]
+         },
+         "properties": {
+            "city_name": "Perros (over Samos)",
+            "short_city_name": "perros_over_samos"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.361713755821825,
+               42.7733673645842
+            ]
+         },
+         "properties": {
+            "city_name": "Aguiada",
+            "short_city_name": "aguiada",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.406459,
+               42.775733
+            ]
+         },
+         "properties": {
+            "city_name": "Sarria",
+            "short_city_name": "sarria",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "has_bus": true,
+            "has_train": true,
+            "booking_city_id": -402386
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.444143,
+               42.768786
+            ]
+         },
+         "properties": {
+            "city_name": "Vilei (Barbadelo)",
+            "short_city_name": "vilei_barbadelo",
+            "has_lodging": true,
+            "booking_city_id": -372421
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.450356,
+               42.765889
+            ]
+         },
+         "properties": {
+            "city_name": "O Mosteiro (Barbadelo)",
+            "short_city_name": "o_mosteiro_barbadelo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.458994,
+               42.768084
+            ]
+         },
+         "properties": {
+            "city_name": "Rente (Barbadelo)",
+            "short_city_name": "rente_barbadelo",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.466705,
+               42.771156
+            ]
+         },
+         "properties": {
+            "city_name": "A Serra (Barbadelo)",
+            "short_city_name": "a_serra_barbadelo",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.479865,
+               42.772697
+            ]
+         },
+         "properties": {
+            "city_name": "Molino de Marz\u00e1n",
+            "short_city_name": "molino_de_marzan",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.483336,
+               42.780136
+            ]
+         },
+         "properties": {
+            "city_name": "A Pena (Belante)",
+            "short_city_name": "a_pena_belante"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.493454,
+               42.780534
+            ]
+         },
+         "properties": {
+            "city_name": "Peruscallo (Belante)",
+            "short_city_name": "peruscallo_belante"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.500272,
+               42.777986
+            ]
+         },
+         "properties": {
+            "city_name": "Cortinas (Biville)",
+            "short_city_name": "cortinas_biville"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.515654,
+               42.779573
+            ]
+         },
+         "properties": {
+            "city_name": "A Brea (A Pinza)",
+            "short_city_name": "a_brea_a_pinza",
+            "booking_city_id": 900053377
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.521193,
+               42.782125
+            ]
+         },
+         "properties": {
+            "city_name": "Morgade (A Pinza)",
+            "short_city_name": "morgade_a_pinza",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.533411,
+               42.783624
+            ]
+         },
+         "properties": {
+            "city_name": "Ferreiros",
+            "short_city_name": "ferreiros",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.536549,
+               42.783785
+            ]
+         },
+         "properties": {
+            "city_name": "Mirallos (Ferreiros)",
+            "short_city_name": "mirallos_ferreiros",
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.542749,
+               42.785468
+            ]
+         },
+         "properties": {
+            "city_name": "A Pena (Ferreiros)",
+            "short_city_name": "a_pena_ferreiros",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.549782,
+               42.783962
+            ]
+         },
+         "properties": {
+            "city_name": "As Rozas (Francos)",
+            "short_city_name": "as_rozas_francos",
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.563433,
+               42.786954
+            ]
+         },
+         "properties": {
+            "city_name": "Moimentos (A Laxe)",
+            "short_city_name": "moimentos_a_laxe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.568839,
+               42.788718
+            ]
+         },
+         "properties": {
+            "city_name": "Marcadoiro (A Laxe)",
+            "short_city_name": "marcadoiro_a_laxe",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.587814,
+               42.793948
+            ]
+         },
+         "properties": {
+            "city_name": "A Parrocha (As Cortes)",
+            "short_city_name": "a_parrocha_as_cortes"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.603494,
+               42.795615
+            ]
+         },
+         "properties": {
+            "city_name": "Vilachá",
+            "short_city_name": "vilacha",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.616821,
+               42.804922
+            ]
+         },
+         "properties": {
+            "city_name": "Portomar\u00edn",
+            "short_city_name": "portomarin",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "booking_city_id": 900049791
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.663354,
+               42.812755
+            ]
+         },
+         "properties": {
+            "city_name": "Toxibo",
+            "short_city_name": "toxibo"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.695771,
+               42.824935
+            ]
+         },
+         "properties": {
+            "city_name": "Gonzar",
+            "short_city_name": "gonzar",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true,
+            "booking_city_id": -384179
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.708697,
+               42.831698
+            ]
+         },
+         "properties": {
+            "city_name": "Castromaior",
+            "short_city_name": "castromaior",
+            "has_lodging": true,
+            "has_cafe": true,
+            "booking_city_id": -377252
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.733952,
+               42.840707
+            ]
+         },
+         "properties": {
+            "city_name": "Hospital da Cruz",
+            "short_city_name": "hospital_da_cruz",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.748113,
+               42.844312
+            ]
+         },
+         "properties": {
+            "city_name": "Ventas de Nar\u00f3n",
+            "short_city_name": "ventas_de_naron",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.779276,
+               42.858179
+            ]
+         },
+         "properties": {
+            "city_name": "Ligonde",
+            "short_city_name": "ligonde",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_water": true,
+            "booking_city_id": -389185
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.7871,
+               42.865158
+            ]
+         },
+         "properties": {
+            "city_name": "Airexe (Ligonde)",
+            "short_city_name": "airexe_ligonde",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.80701,
+               42.873641
+            ]
+         },
+         "properties": {
+            "city_name": "Portos (Lestedo)",
+            "short_city_name": "portos_lestedo",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.814065,
+               42.872167
+            ]
+         },
+         "properties": {
+            "city_name": "Lestedo",
+            "short_city_name": "lestedo",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -389123
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.822328,
+               42.873086
+            ]
+         },
+         "properties": {
+            "city_name": "Os Valos (Lestedo)",
+            "short_city_name": "os_valos_lestedo",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.836077,
+               42.875917
+            ]
+         },
+         "properties": {
+            "city_name": "A Brea (Lestedo)",
+            "short_city_name": "a_brea_lestedo"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.867475,
+               42.87276
+            ]
+         },
+         "properties": {
+            "city_name": "Palas de Rei",
+            "short_city_name": "palas_de_rei",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": -395169
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.902329,
+               42.874538
+            ]
+         },
+         "properties": {
+            "city_name": "San Xiao do Cami\u00f1o",
+            "short_city_name": "san_xiao_do_camino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.908588,
+               42.875727
+            ]
+         },
+         "properties": {
+            "city_name": "A Gra\u00f1a",
+            "short_city_name": "a_grana",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.914382,
+               42.878376
+            ]
+         },
+         "properties": {
+            "city_name": "Ponte Campana",
+            "short_city_name": "ponte_campana",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.927502,
+               42.878723
+            ]
+         },
+         "properties": {
+            "city_name": "Casanova",
+            "short_city_name": "casanova",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.95841,
+               42.884708
+            ]
+         },
+         "properties": {
+            "city_name": "O Coto",
+            "short_city_name": "o_coto",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "booking_city_id": 900053269
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.968616,
+               42.889983
+            ]
+         },
+         "properties": {
+            "city_name": "Descabo (O Leboreiro)",
+            "short_city_name": "descabo_o_leboreiro"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -7.999134,
+               42.908921
+            ]
+         },
+         "properties": {
+            "city_name": "Furelos",
+            "short_city_name": "furelos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -383368
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.013488,
+               42.913587
+            ]
+         },
+         "properties": {
+            "city_name": "Melide",
+            "short_city_name": "melide",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "booking_city_id": 900049502
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.077985,
+               42.916154
+            ]
+         },
+         "properties": {
+            "city_name": "Boente",
+            "short_city_name": "boente",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "booking_city_id": -373797
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.09743,
+               42.924839
+            ]
+         },
+         "properties": {
+            "city_name": "A Castaneda (A Fraga Alta)",
+            "short_city_name": "a_castaneda_a_fraga_alta",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.134575,
+               42.930952
+            ]
+         },
+         "properties": {
+            "city_name": "Ribadiso",
+            "short_city_name": "ribadiso",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true,
+            "booking_city_id": 900055725
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.158218,
+               42.928083
+            ]
+         },
+         "properties": {
+            "city_name": "Arz\u00faa",
+            "short_city_name": "arzua",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "booking_city_id": -371761
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.185663,
+               42.922602
+            ]
+         },
+         "properties": {
+            "city_name": "Pregontono",
+            "short_city_name": "pregontono"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.223458,
+               42.925693
+            ]
+         },
+         "properties": {
+            "city_name": "A Calzada",
+            "short_city_name": "a_calzada"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.242999,
+               42.91785
+            ]
+         },
+         "properties": {
+            "city_name": "A Calle de Ferreiros",
+            "short_city_name": "a_calle_de_ferreiros",
+            "has_lodging": true,
+            "has_cafe": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.279375,
+               42.926393
+            ]
+         },
+         "properties": {
+            "city_name": "A Salceda",
+            "short_city_name": "a_salceda",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_pharmacy": true,
+            "booking_city_id": 900051275
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.305333,
+               42.918816
+            ]
+         },
+         "properties": {
+            "city_name": "A Brea (O Pino)",
+            "short_city_name": "a_brea_o_pino",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.332978,
+               42.917661
+            ]
+         },
+         "properties": {
+            "city_name": "Santa Irene",
+            "short_city_name": "santa_irene",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_water": true,
+            "booking_city_id": 900061144
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.350447,
+               42.914512
+            ]
+         },
+         "properties": {
+            "city_name": "A R\u00faa",
+            "short_city_name": "a_rua",
+            "has_lodging": true,
+            "booking_city_id": 900056479
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.3634,
+               42.904229
+            ]
+         },
+         "properties": {
+            "city_name": "O Pedrouzo",
+            "short_city_name": "o_pedrouzo",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "booking_city_id": 900048930
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.393713,
+               42.905898
+            ]
+         },
+         "properties": {
+            "city_name": "Amenal",
+            "short_city_name": "amenal",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_market": true,
+            "booking_city_id": 900047993
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.426009,
+               42.908981
+            ]
+         },
+         "properties": {
+            "city_name": "San Paio",
+            "short_city_name": "san_paio",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.444744,
+               42.899207
+            ]
+         },
+         "properties": {
+            "city_name": "Lavacolla",
+            "short_city_name": "lavacolla",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_bus": true,
+            "has_airport": true,
+            "booking_city_id": 900039813
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.449683,
+               42.89159
+            ]
+         },
+         "properties": {
+            "city_name": "Villamaior",
+            "short_city_name": "villamaior",
+            "has_lodging": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.487825,
+               42.891581
+            ]
+         },
+         "properties": {
+            "city_name": "San Marcos",
+            "short_city_name": "san_marcos",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "booking_city_id": 900050293
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.491901,
+               42.890551
+            ]
+         },
+         "properties": {
+            "city_name": "Monte do Gozo",
+            "short_city_name": "monte_do_gozo",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "has_water": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.545739,
+               42.880483
+            ]
+         },
+         "properties": {
+            "city_name": "Santiago de Compostela",
+            "short_city_name": "santiago_de_compostela",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "has_bus": true,
+            "has_train": true,
+            "has_airport": true,
+            "booking_city_id": -402059
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.789463,
+               43.339575
+            ]
+         },
+         "properties": {
+            "city_name": "Ir\u00fan",
+            "short_city_name": "irun",
+            "booking_city_id": -385931
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -1.971617,
+               43.326503
+            ]
+         },
+         "properties": {
+            "city_name": "San Sebasti\u00e1n",
+            "short_city_name": "san_sebastian",
+            "booking_city_id": -401497
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.207507,
+               43.300012
+            ]
+         },
+         "properties": {
+            "city_name": "Getaria",
+            "short_city_name": "getaria",
+            "booking_city_id": -384814
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.353891,
+               43.294103
+            ]
+         },
+         "properties": {
+            "city_name": "Deba",
+            "short_city_name": "deba",
+            "booking_city_id": -379855
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.497218,
+               43.268488
+            ]
+         },
+         "properties": {
+            "city_name": "Markina-Xemein",
+            "short_city_name": "markina_xemein"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.677856,
+               43.314581
+            ]
+         },
+         "properties": {
+            "city_name": "Guernica",
+            "short_city_name": "guernica",
+            "booking_city_id": -384803
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.832693,
+               43.273822
+            ]
+         },
+         "properties": {
+            "city_name": "Lezama",
+            "short_city_name": "lezama",
+            "booking_city_id": -401865
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -2.934089,
+               43.257241
+            ]
+         },
+         "properties": {
+            "city_name": "Bilbao",
+            "short_city_name": "bilbao",
+            "booking_city_id": -373608
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.017097,
+               43.319887
+            ]
+         },
+         "properties": {
+            "city_name": "Portugalete",
+            "short_city_name": "portugalete",
+            "booking_city_id": -397288
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.217964,
+               43.38257
+            ]
+         },
+         "properties": {
+            "city_name": "Castro Urdiales",
+            "short_city_name": "castro_urdiales",
+            "booking_city_id": -377283
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.41816,
+               43.410979
+            ]
+         },
+         "properties": {
+            "city_name": "Laredo",
+            "short_city_name": "laredo",
+            "booking_city_id": -387948
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.514293,
+               43.437063
+            ]
+         },
+         "properties": {
+            "city_name": "Escalante",
+            "short_city_name": "escalante",
+            "booking_city_id": -381638
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.804517,
+               43.461114
+            ]
+         },
+         "properties": {
+            "city_name": "Santander",
+            "short_city_name": "santander",
+            "booking_city_id": -401949
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -3.942686,
+               43.409815
+            ]
+         },
+         "properties": {
+            "city_name": "Arce",
+            "short_city_name": "arce",
+            "booking_city_id": -371114
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.1066,
+               43.391302
+            ]
+         },
+         "properties": {
+            "city_name": "Santillana del Mar",
+            "short_city_name": "santillana_del_mar",
+            "booking_city_id": -402127
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.290281,
+               43.386681
+            ]
+         },
+         "properties": {
+            "city_name": "Comillas",
+            "short_city_name": "comillas",
+            "booking_city_id": -378567
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.512201,
+               43.374745
+            ]
+         },
+         "properties": {
+            "city_name": "Unquera",
+            "short_city_name": "unquera",
+            "booking_city_id": -405454
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -4.754307,
+               43.419576
+            ]
+         },
+         "properties": {
+            "city_name": "Llanes",
+            "short_city_name": "llanes",
+            "booking_city_id": -389360
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.060069,
+               43.460918
+            ]
+         },
+         "properties": {
+            "city_name": "Ribadesella",
+            "short_city_name": "ribadesella",
+            "booking_city_id": -399019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.270451,
+               43.485151
+            ]
+         },
+         "properties": {
+            "city_name": "Colunga",
+            "short_city_name": "colunga",
+            "booking_city_id": -378535
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -5.433275,
+               43.481697
+            ]
+         },
+         "properties": {
+            "city_name": "Villaviciosa",
+            "short_city_name": "villaviciosa",
+            "booking_city_id": -408639
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.133384374548996,
+               38.70975779282571
+            ]
+         },
+         "properties": {
+            "city_name": "Lisboa",
+            "short_city_name": "lisboa",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_water": true,
+            "has_post_office": true,
+            "has_bus": true,
+            "has_train": true,
+            "has_airport": true,
+            "booking_city_id": -2167973
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.095679282584399,
+               38.766721172855455
+            ]
+         },
+         "properties": {
+            "city_name": "Parque Das Nações / Oriente",
+            "short_city_name": "parque_das_nacoes_oriente",
+            "has_lodging": true,
+            "has_cash": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_bus": true,
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.104619933420082,
+               38.79667189683576
+            ]
+         },
+         "properties": {
+            "city_name": "Sacavem",
+            "short_city_name": "sacavem",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.087875016613452,
+               38.84511353056158
+            ]
+         },
+         "properties": {
+            "city_name": "Santa Iria de Azoia",
+            "short_city_name": "santa_iria_de_azoia",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.09250124977055,
+               38.86261330395436
+            ]
+         },
+         "properties": {
+            "city_name": "Alpriate",
+            "short_city_name": "alpriate",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "booking_city_id": -2157974
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.035273192098828,
+               38.892757621568535
+            ]
+         },
+         "properties": {
+            "city_name": "Alverca do Ribatejo",
+            "short_city_name": "alverca_do_ribatejo",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -9.008564820226383,
+               38.92547774334045
+            ]
+         },
+         "properties": {
+            "city_name": "Alhandra",
+            "short_city_name": "alhandra",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_pharmacy": true,
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.989679,
+               38.954434
+            ]
+         },
+         "properties": {
+            "city_name": "Vila Franca de Xira",
+            "short_city_name": "vila_franca_de_xira",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_train": true,
+            "booking_city_id": -2179519
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.966912401052127,
+               38.98680694578991
+            ]
+         },
+         "properties": {
+            "city_name": "Castanheira do Ribatejo",
+            "short_city_name": "castanheira_do_ribatejo",
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.935549503586657,
+               39.03628392584744
+            ]
+         },
+         "properties": {
+            "city_name": "Vila Nova da Rainha",
+            "short_city_name": "vila_nova_da_rainha",
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_train": true
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.868211,
+               39.068549
+            ]
+         },
+         "properties": {
+            "city_name": "Azambuja",
+            "short_city_name": "azambuja",
+            "has_lodging": true,
+            "has_cafe": true,
+            "has_restaurant": true,
+            "has_market": true,
+            "has_hospital": true,
+            "has_pharmacy": true,
+            "has_train": true,
+            "booking_city_id": -2159019
+         }
+      },
+
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.681146,
+               39.232444
+            ]
+         },
+         "properties": {
+            "city_name": "Santar\u00e9m",
+            "short_city_name": "santarem",
+            "booking_city_id": -2175487
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.486789,
+               39.401509
+            ]
+         },
+         "properties": {
+            "city_name": "Golegã",
+            "short_city_name": "golega",
+            "booking_city_id": -2166641
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.411759,
+               39.602415
+            ]
+         },
+         "properties": {
+            "city_name": "Tomar",
+            "short_city_name": "tomar",
+            "booking_city_id": -2177563
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.38121,
+               39.82495
+            ]
+         },
+         "properties": {
+            "city_name": "Alvaiázere",
+            "short_city_name": "alvaiazere",
+            "booking_city_id": -2158069
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.434795,
+               39.91267
+            ]
+         },
+         "properties": {
+            "city_name": "Ansião",
+            "short_city_name": "ansiao",
+            "booking_city_id": -2158344
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.499443,
+               40.1127
+            ]
+         },
+         "properties": {
+            "city_name": "Condeixa-a-Nova",
+            "short_city_name": "condeixa_a_nova",
+            "booking_city_id": -2163381
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.429753,
+               40.207176
+            ]
+         },
+         "properties": {
+            "city_name": "Coimbra",
+            "short_city_name": "coimbra",
+            "booking_city_id": -2163275
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.451597,
+               40.378026
+            ]
+         },
+         "properties": {
+            "city_name": "Mealhada",
+            "short_city_name": "mealhada",
+            "booking_city_id": -2169033
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.447933,
+               40.571899
+            ]
+         },
+         "properties": {
+            "city_name": "\u00c1gueda",
+            "short_city_name": "agueda",
+            "booking_city_id": -2157280
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.479732,
+               40.690997
+            ]
+         },
+         "properties": {
+            "city_name": "Albergaria-a-Velha",
+            "short_city_name": "albergaria_a_velha",
+            "booking_city_id": -2157413
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.490583,
+               40.742457
+            ]
+         },
+         "properties": {
+            "city_name": "Albergaria-a-Nova",
+            "short_city_name": "albergaria_a_nova"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.491764,
+               40.89751
+            ]
+         },
+         "properties": {
+            "city_name": "S\u00e3o Jo\u00e3o da Madeira",
+            "short_city_name": "s\u00e3o_jo\u00e3o_da_madeira",
+            "booking_city_id": -2175834
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.610346,
+               41.143125
+            ]
+         },
+         "properties": {
+            "city_name": "Porto",
+            "short_city_name": "porto",
+            "booking_city_id": -2173088
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.73105,
+               41.334898
+            ]
+         },
+         "properties": {
+            "city_name": "Fajozes",
+            "short_city_name": "fajozes",
+            "booking_city_id": -2165007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.664138,
+               41.395235
+            ]
+         },
+         "properties": {
+            "city_name": "Arcos",
+            "short_city_name": "arcos",
+            "booking_city_id": -2158490
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.619079,
+               41.531156
+            ]
+         },
+         "properties": {
+            "city_name": "Barcelos",
+            "short_city_name": "barcelos",
+            "booking_city_id": -2159373
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.582996,
+               41.767083
+            ]
+         },
+         "properties": {
+            "city_name": "Ponte de Lima",
+            "short_city_name": "ponte_de_lima",
+            "booking_city_id": -2172901
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.64436,
+               42.048482
+            ]
+         },
+         "properties": {
+            "city_name": "Tui",
+            "short_city_name": "tui",
+            "booking_city_id": 900040199
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.620231,
+               42.161371
+            ]
+         },
+         "properties": {
+            "city_name": "O Porri\u00f1o",
+            "short_city_name": "o_porrino",
+            "booking_city_id": -397185
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.608836,
+               42.342116
+            ]
+         },
+         "properties": {
+            "city_name": "Arcade",
+            "short_city_name": "arcade",
+            "booking_city_id": -371098
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.644092,
+               42.430801
+            ]
+         },
+         "properties": {
+            "city_name": "Pontevedra",
+            "short_city_name": "pontevedra",
+            "booking_city_id": -397117
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.642305,
+               42.603475
+            ]
+         },
+         "properties": {
+            "city_name": "Caldas de Reis",
+            "short_city_name": "caldas_de_reis",
+            "booking_city_id": -375010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -8.66142,
+               42.739034
+            ]
+         },
+         "properties": {
+            "city_name": "Padr\u00f3n",
+            "short_city_name": "padron",
+            "booking_city_id": -395042
+         }
+      }
+   ]
+}
